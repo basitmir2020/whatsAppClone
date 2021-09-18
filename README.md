@@ -4,7 +4,7 @@ It is a whats app chat
 
 ```Language Used```
 
-<ol>
+<ul>
 <li>Core Java</li>
 <li>FireBase</li>
-<ol>
+</ul>
