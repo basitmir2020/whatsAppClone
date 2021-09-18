@@ -2,9 +2,9 @@
 
 It is a whats app chat
 
-#Language Used
+```Language Used
 
-```<ol>
+<ol>
 <li>Core Java</li>
 <li>FireBase</li>
-<ol>```
+<ol>
